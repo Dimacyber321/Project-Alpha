@@ -1,6 +1,0 @@
-So the code for patroling goes from this video (https://www.youtube.com/watch?v=ieyHlYp5SLQ&t=381s)
-The ground and zombies were taken from Unity Free Store.
-Enemy AL(https://www.youtube.com/watch?v=c8Nq19gkNfs).
-FPS Controller(https://www.youtube.com/watch?v=rJqP5EesxLk&t=896s).
-I Looked after scripts and Adam took all the design and interface  and then we kinda worked over the same parts in project.
-

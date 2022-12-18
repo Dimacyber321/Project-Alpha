@@ -122,7 +122,7 @@ public class AIController : MonoBehaviour
             if (navMeshAgent.remainingDistance <= navMeshAgent.stoppingDistance)
             {
                 //  If the enemy arrives to the waypoint position then wait for a moment and go to the next
-                if (m_WaitTime <= 0)
+                if (m_WaitTime <= 2)
                 {
                     NextPoint();
                     Move(speedWalk);
